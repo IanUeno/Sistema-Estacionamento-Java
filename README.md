@@ -35,7 +35,7 @@ Este é um projeto de um sistema de gestão de estacionamento desenvolvido em Ja
 
 ## Desafio: Sistema de Gestão de Estacionamento
 
-- professor: ​ISAAC SOUZA ELGRABLY
+- Professor: ​ISAAC SOUZA ELGRABLY
 - Curso: Ciencia da computação
 - Turma CC2MA Sub A
 
