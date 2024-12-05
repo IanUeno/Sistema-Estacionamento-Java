@@ -11,7 +11,7 @@ Este é um projeto de um sistema de gestão de estacionamento desenvolvido em Ja
 - Função de testes
 - Teste unitário
 
-##Certifique-se de ter os seguintes softwares instalados em sua máquina:
+## Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Java 17 ou superior](https://www.oracle.com/br/java/technologies/downloads/)
